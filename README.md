@@ -1,1 +1,1 @@
-# Introduction to Open Source for Equality
+# Get started with Open Source for Equality
